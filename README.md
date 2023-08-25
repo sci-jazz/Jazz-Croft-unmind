@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sci-jazz
-- 👀 I’m interested in commercial data science and psychology research
+- 👀 I’m Science Liaison at Unmind interested in commercial data science and psychology research
 - 🌱 I’m currently learning SQL and developing skills in R and Tableau 
 
 <!---
